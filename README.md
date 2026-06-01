@@ -87,7 +87,7 @@
 
 ---
 ### 나만의 JARVIS
-<img src="image/room.png" width="600"/>
+<img src="images/room.png" width="600"/>
 
 [![나만의 JARVIS](https://img.youtube.com/vi/UUnwcfdMLlQ/0.jpg)](https://www.youtube.com/watch?v=UUnwcfdMLlQ)
 
@@ -99,11 +99,11 @@
 
 > ##### 요약
 >- LangChain과 두산 협동로봇을 사용하여 바쁜 현대인들을 위한 스마트홈 기반 출근 루틴 자동화 로봇 (커피/시리얼 준비, 일기예보, 음악 추천, 이불 정리)
->- Github: https://github.com/SmiteLims/ROKEY3_collaborative_robot_work_assistant
+>- Github:https://github.com/machyong/My_JARVIS
 
 ---
 ### 러봇 하우스
-<img src="./image/ws.png" width="600"/>
+<img src="./images/ws.png" width="600"/>
 
 [![러봇 하우스](https://img.youtube.com/vi/LTs1zqtvSvc/0.jpg)](https://www.youtube.com/watch?v=LTs1zqtvSvc)
 
@@ -119,7 +119,7 @@
 
 ---
 ### 도둑잡는 가이드 봇
-<img src="image/도둑잡는가이드봇.png" width="600"/>
+<img src="images/도둑잡는가이드봇.png" width="600"/>
 
 > ##### 소개
 >- 개발기간 : 2025.05.27 ~ 2025.06.07
