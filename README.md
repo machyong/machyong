@@ -21,7 +21,7 @@
 # INDEX
 
 **AI**
-- [그루트를 통한 지그삽입 VLA](#그루트를-통한-지그삽입-vla)
+- [현대자동차 의왕연구소 Physical AI 교육 및 로봇 시연](#현대자동차 의왕연구소 Physical AI 교육 및 로봇 시연)
 - [Bussing Mate](#bussing-mate)
 - [강화학습을 통한 자율주차](#강화학습을-통한-자율주차)
 
@@ -40,8 +40,8 @@
 ## AI
 
 ---
-### 그루트를 통한 지그삽입 VLA
-[![그루트를 통한 지그삽입 VLA](https://img.youtube.com/vi/FRMOiB7u0nc/0.jpg)](https://youtu.be/FRMOiB7u0nc)
+### 현대자동차 의왕연구소 Physical AI 교육 및 로봇 시연
+[![현대자동차 의왕연구소 Physical AI 교육 및 로봇 시연](https://img.youtube.com/vi/FRMOiB7u0nc/0.jpg)](https://youtu.be/FRMOiB7u0nc)
 
 > ##### 소개
 >- 개발기간 : 2026.04.10 ~ 2026.05.08
