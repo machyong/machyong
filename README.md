@@ -21,7 +21,7 @@
 # INDEX
 
 **AI**
-- [현대자동차 의왕연구소 Physical AI 교육 및 로봇 시연](#현대자동차 의왕연구소 Physical AI 교육 및 로봇 시연)
+- [현대자동차 의왕연구소 Physical AI 교육 및 로봇 시연](#현대자동차-의왕연구소-Physical-AI-교육-및-로봇-시연)
 - [Bussing Mate](#bussing-mate)
 - [강화학습을 통한 자율주차](#강화학습을-통한-자율주차)
 
