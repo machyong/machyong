@@ -8,9 +8,11 @@
 
 | 분야 | 기술 |
 |------|------|
-| 프로그래밍 | Python, ROS2, OpenCV, Pytorch, Langchain |
-| 시뮬레이션 | Isaacsim, Isaaclab, Gazebo, Lerobot, Gr00t |
-| 데이터 | MySQL, PostgreSQL, sklearn, statesmodel |
+| AI | Python, OpenCV, Pytorch, Langchain, Gr00t|
+| 시뮬레이션 | Isaacsim, Isaaclab, Gazebo, Lerobot|
+| 데이터 | MySQL, PostgreSQL, statesmodel |
+| ML | sklearn, statesmodel |
+| 로봇 | ROS2 |
 
 **보유 자격증**
 - 2024.07.12  빅데이터분석기사
